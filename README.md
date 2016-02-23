@@ -1,4 +1,9 @@
-# Shark Notes
+# Shark Notes (DEPRECATED)
+
+This repository is deprecated in favor for [this one](http://github.com/justserverless/notes)
+
+---
+
 Note taking application which implements CRUD operations.
 
 Developed with the help of the [Serverless framework](http://serverless.com).
